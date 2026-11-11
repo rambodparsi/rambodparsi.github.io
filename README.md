@@ -1,4 +1,4 @@
-# rambodparsi.github.io
+# Rambod Ghandiparsi | Portfolio & CV
 
 Hi! This is the source of my personal website, live at **[rambodparsi.github.io](https://rambodparsi.github.io/)**.
 
